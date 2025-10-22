@@ -1,4 +1,4 @@
-{"grammar": "evoflow-master/grammars/classification_auc_25_25.xml",
+{"grammar": "evoflow/grammars/classification_auc_25_25.xml",
  "generations": 20,
  "pop_size": 100,
  "cxpb": 0.8,
