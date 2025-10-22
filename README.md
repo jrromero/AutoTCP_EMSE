@@ -55,6 +55,12 @@ nohup python3 run_experiments.py > output.log &
 
 This will run the experiment in the background and save the output to a file called `output.log`. The results will be saved in the folder configured in the `run_experiments.py` file.
 
+#### Survey
+
+A survey was conducted with 21 participants —including software engineers, testers, and academics— to gather their opinions on the adoption of machine learning in software testing, particularly regarding test case prioritisation. The questionnaire explores the perceived benefits and challenges of integrating machine learning techniques into testing workflows, as well as the potential of AutoML to address these challenges. The survey was distributed anonymously across companies of varying sizes and among research groups related to the field.
+
+[Survey transcript](survey/questionnaire.pdf) (administered via Google Forms).
+
 #### Results
 
 The directory [results](/results) includes the detailed results obtained by our proposed method (AutoTCP), divided into three research questions:
