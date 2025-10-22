@@ -1,7 +1,3 @@
-#    Aurora Ramirez, PhD
-#    Knowledge Discovery and Intelligent Systems (KDIS)
-#    University of Cordoba, Spain
-
 import pandas as pd
 import numpy as np
 import os
