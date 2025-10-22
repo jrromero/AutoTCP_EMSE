@@ -1,8 +1,8 @@
-# J.R. Romero, A. Ramírez, A. Fuentes-Almoguera, C. García.
+# J.R. Romero, A. Ramírez, A. C. García.
 # "Automated machine learning for test case prioritisation".
-# 2024.
+# 2025.
 
-# Script used to train EvoFlow on the ahmadreza dataset
+# Script used to train on the ahmadreza dataset
 
 import os
 import subprocess
