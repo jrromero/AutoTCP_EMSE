@@ -1,6 +1,6 @@
-# J.R. Romero, A. Ramírez, A. Fuentes-Almoguera, C. García.
+# J.R. Romero, A. Ramírez, C. García.
 # "Automated machine learning for test case prioritisation".
-# 2024.
+# 2025.
 
 # Script to plot the violin plot of the RQ1 results
 
