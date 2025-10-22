@@ -6,7 +6,7 @@
 - Aurora Ramírez (a,b  - corresponding author))
 - Carlos García-Martínez (a, b)
 
-(a) Department of Computer Science and Numerical Analysis, University of Córdoba, 14071, Córdoba, Spain
+(a) Department of Computer Science and Artificial Intelligence, University of Córdoba, 14071, Córdoba, Spain
 
 (b) Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI), Córdoba, Spain
 
