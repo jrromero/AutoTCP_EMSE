@@ -1,6 +1,6 @@
-# J.R. Romero, A. Ramírez, A. Fuentes-Almoguera, C. García.
+# J.R. Romero, A. Ramírez, C. García.
 # "Automated machine learning for test case prioritisation".
-# 2024.
+# 2025.
 
 # Script used to get the normalized count of the algorithms used in the ensembles trained in the ahmadreza dataset and plot a heatmap
 
